@@ -1,0 +1,15 @@
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe.config
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csprojAssemblyReference.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.g.cs
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\App.g.cs
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.lref
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.baml
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.g.resources
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi_Ravaglia.Properties.Resources.resources
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.GenerateResource.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.pdb
