@@ -107,6 +107,12 @@ namespace Libreria_Bianchi_Ravaglia {
             return;
             case 2:
             this.btn_LoadFile = ((System.Windows.Controls.Button)(target));
+            
+            #line 12 "..\..\MainWindow.xaml"
+            this.btn_LoadFile.Click += new System.Windows.RoutedEventHandler(this.btn_LoadFile_Click);
+            
+            #line default
+            #line hidden
             return;
             case 3:
             this.btn_CreateFile = ((System.Windows.Controls.Button)(target));

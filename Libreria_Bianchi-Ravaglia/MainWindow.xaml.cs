@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
+using System.Xml.Linq;
 using System.Windows.Forms;
 namespace Libreria_Bianchi_Ravaglia
 {
@@ -33,6 +34,16 @@ namespace Libreria_Bianchi_Ravaglia
             window.ShowDialog();
 
             txt_FilePath.Text = window.FileName;
+        }
+
+        private void btn_LoadFile_Click(object sender, RoutedEventArgs e)
+        {
+            mainForm.pathFile = txt_FilePath.Text;
+        }
+
+        private void btn_CreateFile_Click(object sender, RoutedEventArgs e)
+        {
+            mainForm.pathFile = "..";
         }
     }
 }

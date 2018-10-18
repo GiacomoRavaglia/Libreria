@@ -9,9 +9,9 @@
     <Grid>
         <Label Content="LIBRERIA" HorizontalAlignment="Center" Margin="299,33,270,0" VerticalAlignment="Top" FontSize="48" Foreground="#FFFFAF7D" RenderTransformOrigin="0.496,0.348" FontWeight="Bold" Width="225"/>
         <TextBox x:Name="txt_FilePath" HorizontalAlignment="Center" Height="23" Margin="260,112,234,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Foreground="#FFFFAF7D" BorderBrush="#FFFFAF7D"/>
-        <Button x:Name="btn_LoadFile" Content="Carica" HorizontalAlignment="Left" Margin="374,140,0,0" VerticalAlignment="Top" Width="75" BorderBrush="#FFFFAF7D" Foreground="#FFFFAF7D" FontWeight="Bold"/>
+        <Button x:Name="btn_LoadFile" Content="Carica" HorizontalAlignment="Left" Margin="374,140,0,0" VerticalAlignment="Top" Width="75" BorderBrush="#FFFFAF7D" Foreground="#FFFFAF7D" FontWeight="Bold" Click="btn_LoadFile_Click"/>
         <Label Content="Oppure" HorizontalAlignment="Left" Margin="386,165,0,0" VerticalAlignment="Top" Foreground="#FFFFAF7D"/>
-        <Button x:Name="btn_CreateFile" Content="Crea automaticamente il file" HorizontalAlignment="Left" Margin="323,196,0,0" VerticalAlignment="Top" Width="176" BorderBrush="#FFFFAF7D" FontWeight="Bold" Foreground="#FFFFAF7D"/>
+        <Button x:Name="btn_CreateFile" Content="Crea automaticamente il file" HorizontalAlignment="Left" Margin="323,196,0,0" VerticalAlignment="Top" Width="176" BorderBrush="#FFFFAF7D" FontWeight="Bold" Foreground="#FFFFAF7D" Click="btn_CreateFile_Click"/>
         <Button x:Name="btn_SearchFile" Content="..." HorizontalAlignment="Left" Margin="565,112,0,0" VerticalAlignment="Top" Width="23" Height="23" BorderBrush="#FFFFAF7D" Foreground="#FFFFAF7D" Click="btn_SearchFile_Click"/>
     </Grid>
 </Window>
