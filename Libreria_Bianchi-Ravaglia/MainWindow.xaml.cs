@@ -14,6 +14,8 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
 using System.Windows.Forms;
+using System.Xml.Linq;
+
 namespace Libreria_Bianchi_Ravaglia
 {
     /// <summary>
@@ -33,6 +35,10 @@ namespace Libreria_Bianchi_Ravaglia
             window.ShowDialog();
 
             txt_FilePath.Text = window.FileName;
+        }
+
+        private void btn_CreateFile_Click(object sender, RoutedEventArgs e)
+        {
         }
     }
 }
