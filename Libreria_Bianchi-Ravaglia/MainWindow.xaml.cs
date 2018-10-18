@@ -12,7 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using System.IO;
+using System.Windows.Forms;
 namespace Libreria_Bianchi_Ravaglia
 {
     /// <summary>
@@ -23,6 +24,15 @@ namespace Libreria_Bianchi_Ravaglia
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btn_SearchFile_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog window = new OpenFileDialog();
+            window.Filter = "File xml (*.xml)|*.xml|All files (*.*)|*.*";
+            window.ShowDialog();
+
+            txt_FilePath.Text = window.FileName;
         }
     }
 }
