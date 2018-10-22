@@ -19,6 +19,7 @@
                 </TransformGroup>
             </Label.RenderTransform>
         </Label>
+        <ListBox x:Name="lst_stampa" HorizontalAlignment="Left" Height="100" Margin="203,19,0,0" VerticalAlignment="Top" Width="229"/>
 
     </Grid>
 </Window>

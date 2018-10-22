@@ -33,11 +33,11 @@ namespace Libreria_Bianchi_Ravaglia
 
         private void btn_cercaAutore_Click(object sender, RoutedEventArgs e)//query che restituisce i titoli del autore inserito da input
         {
-            IEnumerable<string> titoli = from libri in newFile.Descendants("wiride")
-                                        where libri.Element("author").Value == txt_autore.Text
-                                        select libri.Element("title").Value;
+            IEnumerable<string> titoli = from libri in newFile.Elements("Biblioteca").Elements("wiride")
+                                        where (string)libri.Element("autore").Element("cognome") == txt_autore.Text
+                                         select libri.Element("titolo").Value;
             foreach (string tit in titoli)//stampa titoli
-                MessageBox.Show(tit);
+                lst_stampa.Items.Add(tit);
         }
     }
 }

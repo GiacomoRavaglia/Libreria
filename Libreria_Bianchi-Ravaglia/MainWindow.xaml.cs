@@ -15,6 +15,8 @@ using System.Windows.Shapes;
 using System.IO;
 using System.Xml.Linq;
 using System.Windows.Forms;
+using System.Xml.Linq;
+
 namespace Libreria_Bianchi_Ravaglia
 {
     /// <summary>
@@ -36,6 +38,7 @@ namespace Libreria_Bianchi_Ravaglia
             txt_FilePath.Text = window.FileName;
         }
 
+
         private void btn_LoadFile_Click(object sender, RoutedEventArgs e)
         {
             mainForm.pathFile = txt_FilePath.Text;
@@ -44,6 +47,8 @@ namespace Libreria_Bianchi_Ravaglia
         private void btn_CreateFile_Click(object sender, RoutedEventArgs e)
         {
             mainForm.pathFile = "..";
+
         }
+        
     }
 }
