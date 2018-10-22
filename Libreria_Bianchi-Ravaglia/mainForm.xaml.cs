@@ -37,7 +37,7 @@ namespace Libreria_Bianchi_Ravaglia
                                         where libri.Element("author").Value == txt_autore.Text
                                         select libri.Element("title").Value;
             foreach (string tit in titoli)//stampa titoli
-                MessageBox.Show(tit);//
+                MessageBox.Show(tit);
         }
     }
 }
