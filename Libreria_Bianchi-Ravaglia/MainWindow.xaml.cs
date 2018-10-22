@@ -40,5 +40,10 @@ namespace Libreria_Bianchi_Ravaglia
         private void btn_CreateFile_Click(object sender, RoutedEventArgs e)
         {
         }
+
+        private void btn_LoadFile_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
