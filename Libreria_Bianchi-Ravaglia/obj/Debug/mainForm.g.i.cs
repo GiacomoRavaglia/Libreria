@@ -108,6 +108,10 @@ namespace Libreria_Bianchi_Ravaglia
         }
 
         internal System.Windows.Controls.ListBox lst_stampa;
+        internal System.Windows.Controls.TextBox txt_titolo;
+        internal System.Windows.Controls.Button btn_copie;
+        internal System.Windows.Controls.TextBox txt_genere;
+        internal System.Windows.Controls.Button btn_genere;
     }
 }
 

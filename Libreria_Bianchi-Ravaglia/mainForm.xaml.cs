@@ -39,5 +39,7 @@ namespace Libreria_Bianchi_Ravaglia
             foreach (string tit in titoli)//stampa titoli
                 lst_stampa.Items.Add(tit);
         }
+
+       
     }
 }

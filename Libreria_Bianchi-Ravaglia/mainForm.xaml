@@ -7,19 +7,25 @@
         mc:Ignorable="d"
         Title="mainForm" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btn_cercaAutore" Content="Cerca" HorizontalAlignment="Left" Margin="37,65,0,0" VerticalAlignment="Top" Width="120" Height="22" Click="btn_cercaAutore_Click"/>
-        <TextBox x:Name="txt_autore" HorizontalAlignment="Left" Height="23" Margin="37,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Inserisci autore :" HorizontalAlignment="Left" Margin="31,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+        <Button x:Name="btn_cercaAutore" Content="Cerca" HorizontalAlignment="Left" Margin="51,367,0,0" VerticalAlignment="Top" Width="159" Height="22" Click="btn_cercaAutore_Click"/>
+        <TextBox x:Name="txt_autore" HorizontalAlignment="Left" Height="23" Margin="51,339,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+        <Label Content="Inserisci autore :" HorizontalAlignment="Left" Margin="51,313,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="127">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="-0.27"/>
+                    <SkewTransform AngleX="0.153"/>
+                    <RotateTransform Angle="-0.204"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Label.RenderTransform>
         </Label>
-        <ListBox x:Name="lst_stampa" HorizontalAlignment="Left" Height="100" Margin="203,19,0,0" VerticalAlignment="Top" Width="229"/>
+        <ListBox x:Name="lst_stampa" HorizontalAlignment="Left" Height="285" Margin="141,10,0,0" VerticalAlignment="Top" Width="505"/>
+        <Label Content="Inserisci titolo :&#xD;&#xA;" HorizontalAlignment="Left" Margin="306,313,0,0" VerticalAlignment="Top" Height="27" Width="118"/>
+        <TextBox x:Name="txt_titolo" HorizontalAlignment="Left" Height="23" Margin="306,339,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+        <Button x:Name="btn_copie" Content="Numero Copie" HorizontalAlignment="Left" Margin="306,367,0,0" VerticalAlignment="Top" Width="159" Height="22"/>
+        <Label Content="Inserisci il genere :&#xD;&#xA;" HorizontalAlignment="Left" Margin="597,313,0,0" VerticalAlignment="Top" Height="27" Width="142"/>
+        <TextBox x:Name="txt_genere" HorizontalAlignment="Left" Height="23" Margin="597,339,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+        <Button x:Name="btn_genere" Content="Numero libri" HorizontalAlignment="Left" Margin="597,367,0,0" VerticalAlignment="Top" Width="159" Height="22" Click="btn_genere_Click"/>
 
     </Grid>
 </Window>
