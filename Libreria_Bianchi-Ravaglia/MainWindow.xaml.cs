@@ -32,11 +32,12 @@ namespace Libreria_Bianchi_Ravaglia
 
         private void btn_SearchFile_Click(object sender, RoutedEventArgs e)
         {
+           
             // apertura della finestra di ricerca del file
             OpenFileDialog window = new OpenFileDialog();
             window.Filter = "File xml (*.xml)|*.xml|All files (*.*)|*.*";
             window.ShowDialog();
-
+            System.Windows.Forms.MessageBox.Show("CIAO");
             txt_FilePath.Text = window.FileName;
         }
 
