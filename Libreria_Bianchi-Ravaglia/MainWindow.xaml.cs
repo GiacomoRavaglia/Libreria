@@ -43,6 +43,7 @@ namespace Libreria_Bianchi_Ravaglia
 
         private void btn_CreateFile_Click(object sender, RoutedEventArgs e)
         {
+            System.Windows.Forms.MessageBox.Show("Ciao");
             // variabili locali                  
             int cont = 0;                                           // contatore per i dati estratti dal file sorgente
             XDocument newFile;                                      // nuovo file xml con i soli dati richiesti
