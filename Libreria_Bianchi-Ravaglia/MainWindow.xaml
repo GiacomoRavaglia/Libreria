@@ -1,0 +1,30 @@
+﻿<Window x:Class="Libreria_Bianchi_Ravaglia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Libreria_Bianchi_Ravaglia"
+        mc:Ignorable="d"
+        Title="Libreria" Height="631.705" Width="800" ResizeMode="NoResize" Background="#FF7DBAFF" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="LIBRERIA" HorizontalAlignment="Center" Margin="299,33,270,0" VerticalAlignment="Top" FontSize="48" Foreground="#FFFFAF7D" RenderTransformOrigin="0.496,0.348" FontWeight="Bold" Width="225"/>
+        <Button x:Name="btn_CreateFile" Content="Crea un nuovo file" HorizontalAlignment="Left" Margin="583,559,0,0" VerticalAlignment="Top" Width="176" BorderBrush="#FFFFAF7D" FontWeight="Bold" Foreground="#FFFFAF7D" Click="btn_CreateFile_Click" Background="White" BorderThickness="2"/>
+        <Button x:Name="btn_cercaAutore" Content="Cerca" HorizontalAlignment="Left" Margin="58,191,0,0" VerticalAlignment="Top" Width="159" Height="22" Click="btn_cercaAutore_Click" Foreground="#FFFFAF7D" BorderBrush="#FFFFAF7D" FontWeight="Bold" Background="White" BorderThickness="2"/>
+        <TextBox x:Name="txt_autore" HorizontalAlignment="Left" Height="23" Margin="25,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" BorderBrush="#FFFFAF7D"/>
+        <ListBox x:Name="lst_stampa" HorizontalAlignment="Left" Height="422" Margin="279,132,0,0" VerticalAlignment="Top" Width="480" BorderBrush="#FFFFAF7D" BorderThickness="2"/>
+        <Label Content="Inserisci titolo :&#xA;" HorizontalAlignment="Left" Margin="25,218,0,0" VerticalAlignment="Top" Height="27" Width="118" Foreground="#FFFFAF7D" FontWeight="Bold"/>
+        <TextBox x:Name="txt_titolo" HorizontalAlignment="Left" Height="23" Margin="25,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" BorderBrush="#FFFFAF7D"/>
+        <Button x:Name="btn_copie" Content="Numero Copie" HorizontalAlignment="Left" Margin="58,278,0,0" VerticalAlignment="Top" Width="159" Height="22" Click="btn_copie_Click" BorderBrush="#FFFFAF7D" Foreground="#FFFFAF7D" FontWeight="Bold" Background="White" BorderThickness="2"/>
+        <Label Content="Numero di romanzi:" HorizontalAlignment="Left" Margin="30,319,0,0" VerticalAlignment="Top" Height="27" Width="142" Foreground="#FFFFAF7D" FontWeight="Bold"/>
+        <Button x:Name="btn_genere" Content="Trova" HorizontalAlignment="Left" Margin="172,321,0,0" VerticalAlignment="Top" Width="78" Height="22" Click="btn_genere_Click" Foreground="#FFFFAF7D" BorderBrush="#FFFFAF7D" FontWeight="Bold" Background="White" BorderThickness="2" />
+        <Label x:Name="label" Content="Inserisci un autore:&#xD;&#xA;" HorizontalAlignment="Left" Margin="25,132,0,0" VerticalAlignment="Top" Height="26" Foreground="#FFFFAF7D" FontWeight="Bold"/>
+        <Button x:Name="btn_eliminazioneAbstract" Content="Elimina" HorizontalAlignment="Left" Margin="172,369,0,0" VerticalAlignment="Top" Width="78" Height="22" Click="btn_eliminazioneAbstract_Click" Background="White" BorderBrush="#FFFFAF7D" Foreground="#FFFFAF7D" BorderThickness="2" FontWeight="Bold"/>
+        <Label x:Name="label1" Content="Elimina tag abstract:" HorizontalAlignment="Left" Margin="30,365,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FFFFAF7D"/>
+        <Label Content="Cambio genere:" HorizontalAlignment="Left" Margin="30,391,0,0" VerticalAlignment="Top" Width="120" Foreground="#FFFFAF7D" FontWeight="Bold"/>
+        <TextBox x:Name="txt_CambioTitolo" HorizontalAlignment="Left" Height="26" Margin="58,438,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" BorderBrush="#FFFFAF7D"/>
+        <Button x:Name="btn_cambio1" Content="Cambia" HorizontalAlignment="Left" Margin="58,528,0,0" VerticalAlignment="Top" Width="159" Height="22" BorderBrush="#FFFFAF7D" Foreground="#FFFFAF7D" Background="White" FontWeight="Bold" BorderThickness="2" Click="btn_cambio1_Click"/>
+        <Label x:Name="label2" Content="Titolo" HorizontalAlignment="Left" Margin="58,411,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FFFFAF7D"/>
+        <Label x:Name="label3" Content="Nuovo genere" HorizontalAlignment="Left" Margin="58,469,0,0" VerticalAlignment="Top" Foreground="#FFFFAF7D" FontWeight="Bold"/>
+        <TextBox x:Name="txt_CambioGenere" HorizontalAlignment="Left" Height="23" Margin="58,500,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" BorderBrush="#FFFFAF7D"/>
+    </Grid>
+</Window>

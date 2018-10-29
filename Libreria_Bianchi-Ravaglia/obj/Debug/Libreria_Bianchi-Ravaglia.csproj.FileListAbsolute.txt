@@ -1,0 +1,72 @@
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe.config
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csprojAssemblyReference.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.g.cs
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\App.g.cs
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.lref
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.baml
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.g.resources
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi_Ravaglia.Properties.Resources.resources
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.GenerateResource.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\giacomo.ravaglia\Desktop\Libreria\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe.config
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csprojResolveAssemblyReference.cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.g.cs
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\App.g.cs
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.lref
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.baml
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.g.resources
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi_Ravaglia.Properties.Resources.resources
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.GenerateResource.Cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - Copia\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe.config
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csprojResolveAssemblyReference.cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.g.cs
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\App.g.cs
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.lref
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.baml
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.g.resources
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi_Ravaglia.Properties.Resources.resources
+C:\Users\Alice e Giacomo\Desktop\Libreria - query\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.GenerateResource.Cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe.config
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csprojResolveAssemblyReference.cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.g.cs
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\App.g.cs
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.cache
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.lref
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.baml
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.g.resources
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi_Ravaglia.Properties.Resources.resources
+C:\Users\Alice e Giacomo\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.GenerateResource.Cache
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe.config
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\bin\Debug\Libreria_Bianchi-Ravaglia.pdb
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csprojAssemblyReference.cache
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.g.cs
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\App.g.cs
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.cache
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia_MarkupCompile.lref
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\MainWindow.baml
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.g.resources
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi_Ravaglia.Properties.Resources.resources
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.GenerateResource.cache
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.exe
+C:\Users\alessandro.giunchi\Desktop\Libreria - query aggiuntive\Libreria\Libreria_Bianchi-Ravaglia\obj\Debug\Libreria_Bianchi-Ravaglia.pdb
